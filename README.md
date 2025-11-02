@@ -106,6 +106,10 @@ It’s a great example of transforming raw data into **actionable insights** usi
 Unlike SQL, Python, or Power BI, my Excel-based Sales & Profit Dashboard emphasizes user-driven interactivity and customized visual storytelling — all within a self-contained workbook enviroment accessible to any business user without specialized tools and skill.
 
 ---
+Built to practice data visualization and dashboard automation in Excel.
+This project was inspired by a YouTube tutorial by Vedeka, using the provided sales dataset.
+The goal was to deepen my understanding of pivot charts, Power Query, and VBA for real-world dashboard design.
 
+---
 **📧 Connect with me:**  
 If you liked this project or have feedback, connect with me on [[LinkedIn](https://www.linkedin.com/in/priyanka-raju-kadavala/)]
