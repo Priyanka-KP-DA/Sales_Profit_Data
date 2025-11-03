@@ -80,7 +80,7 @@ The interactive dashboard allows users to:
 - Compare **Category Performance** using pivot charts
 - Drill down into **Customer-Level Insights**
 
-<img width="1436" height="659" alt="Screenshot 2025-11-02 at 20 05 58" src="https://github.com/user-attachments/assets/e36f8b8b-113c-4a7d-87f8-72453ccf3465" />
+<img width="1079" height="480" alt="Screenshot 2025-11-03 at 17 13 27" src="https://github.com/user-attachments/assets/3b9f87a0-27bc-4efd-95aa-996742f55095" />
 
 ---
 
